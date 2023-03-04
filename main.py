@@ -33,7 +33,7 @@ def format_proxy(proxy):
 
 # def get_urls(csv):
 #     df = pd.read_csv(csv)
-#     return df
+#     return df change
 
 def extract_source(url):
     headers={'accept':'about/buying',
